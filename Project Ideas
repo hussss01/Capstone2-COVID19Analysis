@@ -1,0 +1,19 @@
+Capstone Two - Project Ideas
+
+[COVID-19 Vaccinations in the United States,County](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh)
+[COVID-19 State and County Policy Orders](https://healthdata.gov/dataset/COVID-19-State-and-County-Policy-Orders/gyqz-9u7n)
+[COVID-19 Reported Patient Impact and Hospital Capacity by Facility](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u)
+[United States COVID-19 Cases and Deaths by State over Time](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)
+[Weekly Counts of Death by Jurisdiction and Select Causes of Death](https://data.cdc.gov/NCHS/Weekly-Counts-of-Death-by-Jurisdiction-and-Select-/u6jv-9ijr)
+
+1.Which policy orders had a statistically significant impact on the amount of COVID19 cases seen in hospitals?
+COVID-19 State and County Policy Orders
+COVID-19 Reported Patient Impact and Hospital Capacity by Facility
+
+2.Is there a significant correlation between COVID19 deaths and non-COVID19 deaths?
+United States COVID-19 Cases and Deaths by State over Time
+Weekly Counts of Death by Jurisdiction and Select Causes of Death
+
+3.Have policy orders significantly affected vaccination rates?
+COVID-19 Vaccinations in the United States,County
+COVID-19 State and County Policy Orders
